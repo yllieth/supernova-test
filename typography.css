@@ -1,0 +1,39 @@
+.typographyHeader1 
+ {
+  
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeader2 
+ {
+  
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody 
+ {
+  
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
